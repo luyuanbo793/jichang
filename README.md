@@ -11,7 +11,7 @@
 
 官网地址1:[点击进入](https://6.66jc.top/#/login?code=42y4eLHT)
 
-官网地址2:[点击进入](6666b.idsduf.com/#/login?code=42y4eLHT)
+官网地址2:[点击进入](https://6666b.idsduf.com/#/login?code=42y4eLHT)
 
 
 主观评价:套餐为中转+直连节点，价格低，节点多，推荐需要大流量的用户购买月付套餐。
@@ -34,7 +34,7 @@
 ---
 ## 二、动力港(8/月100G)
 
-官网地址:[点击进入](site01.dongligang.vip/login?code=bn2Vaf4v)
+官网地址:[点击进入](https://site01.dongligang.vip/login?code=bn2Vaf4v)
 
 主观评价: 质量非常不错，全1X节点，配合8元100G的售价，可以说是比较香的了。
 
