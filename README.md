@@ -9,7 +9,7 @@
 官网地址1:[点击进入](https://web.henet.uk/#/register?code=LiRFFrLp)
 :套餐<img src="https://pic.imgdd.cc/item/684ce6d93c3a6234d3492265.jpg">
 ## 冲上云霄
-官网地址1:[点击进入](https://my.vpnpn.com/)
+官网地址1:[点击进入](https://cpdd.one/?r=86356)
 :套餐<img src="https://pic.imgdd.cc/item/684cec2e3c3a6234d34922e1.jpg">
 
 官网地址1:[点击进入]()
