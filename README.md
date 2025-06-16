@@ -1,4 +1,5 @@
-![免费可用](https://igdux.top/~Clash)
+# 免费节点:[点击进入](https://igdux.top/~Clash)
+
 ## 纵云梯
 官网地址1:[点击进入](https://zongyunti.site/#/register?code=XcQmMJj8)
 :套餐<img src="https://pic.imgdd.cc/item/684ce2273c3a6234d34921d1.jpg">
