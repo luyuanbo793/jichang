@@ -1,7 +1,7 @@
 # 免费节点:[点击进入](https://igdux.top/~Clash)
 
 ## 纵云梯
-官网地址1:[点击进入](https://zongyunti.site/#/register?code=XcQmMJj8)
+官网地址1:[点击进入](https://zongyunti.site/#/register?code=52fqmULw)
 :套餐<img src="https://pic.imgdd.cc/item/684ce2273c3a6234d34921d1.jpg">
 ## 狗子云机场✈️
 官网地址1:[点击进入](https://gz-cloud.top/#/register?code=MEXdGfR7)
