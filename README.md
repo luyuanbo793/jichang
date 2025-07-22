@@ -4,7 +4,7 @@
 官网地址1:[点击进入](https://zongyunti.site/#/register?code=52fqmULw)
 :套餐<img src="https://pic.imgdd.cc/item/684ce2273c3a6234d34921d1.jpg">
 ## 狗子云机场✈️
-官网地址1:[点击进入](https://gz-cloud.top/#/register?code=MEXdGfR7)
+官网地址1:[点击进入](https://gz-cloud.top/#/register?code=1dAMcwJO)
 :套餐<img src="https://pic.imgdd.cc/item/684ce5f83c3a6234d349224a.jpg">
 ## Helium Network
 官网地址1:[点击进入](https://web.henet.uk/#/register?code=LiRFFrLp)
