@@ -570,12 +570,12 @@ manual_install_v2ray() {
     # 下载V2Ray二进制文件
     echo -e "${BLUE}下载V2Ray二进制文件...${NC}"
     local arch=$(uname -m)
-    local v2ray_url="http://220.205.16.22:45512/github.com/v2fly/v2ray-core/releases/latest/download/v2ray-linux-64.zip"
+    local v2ray_url="http://220.205.16.22:45512/https://github.com/v2fly/v2ray-core/releases/latest/download/v2ray-linux-64.zip"
     
     if [ "$arch" = "aarch64" ]; then
-        v2ray_url="http://220.205.16.22:45512/github.com/v2fly/v2ray-core/releases/latest/download/v2ray-linux-arm64-v8a.zip"
+        v2ray_url="http://220.205.16.22:45512/https://github.com/v2fly/v2ray-core/releases/latest/download/v2ray-linux-arm64-v8a.zip"
     elif [ "$arch" = "armv7l" ]; then
-        v2ray_url="http://220.205.16.22:45512/github.com/v2fly/v2ray-core/releases/latest/download/v2ray-linux-arm32-v7a.zip"
+        v2ray_url="http://220.205.16.22:45512/https://github.com/v2fly/v2ray-core/releases/latest/download/v2ray-linux-arm32-v7a.zip"
     fi
     
     # 下载并解压
