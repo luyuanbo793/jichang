@@ -1,8 +1,8 @@
 #!/bin/bash
 set -e
 apk add --no-cache curl unzip
-XRAY_VERSION=$(curl -s http://220.205.16.22:46507/repos/XTLS/Xray-core/releases/latest | grep tag_name | cut -d '"' -f 4)
-curl -L -o /tmp/xray.zip http://220.205.16.22:45512/https://github.com/XTLS/Xray-core/releases/download/${XRAY_VERSION}/Xray-linux-64.zip
+XRAY_VERSION=$(curl -s https://api.github.com/repos/XTLS/Xray-core/releases/latest | grep tag_name | cut -d '"' -f 4)
+curl -L -o /tmp/xray.zip https://ghfast.top/https://github.com/XTLS/Xray-core/releases/download/${XRAY_VERSION}/Xray-linux-64.zip
 unzip /tmp/xray.zip -d /tmp/xray
 mv /tmp/xray/xray /usr/local/bin/
 chmod +x /usr/local/bin/xray
